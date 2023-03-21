@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.input1{
+  font-size: 15px;
+  width: 300px;
+  margin-bottom: 9px;
+  color: silver;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+.input2{
+  font-size:15px;
+  width: 300px;
+  margin-bottom: 0px;
+  color: silver;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+.addpro{
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 20px;
+  color: green;
+  border-color: green;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  border-radius: 8px;
+  width: 115px;
+
+}
+.arrow{
+  font-size: xx-large;
+  height: 800px;
+  padding: 60px;
+}
+.detail{
+  text-decoration: underline;
+  color:green;
+  font-weight: bold;
+  margin-left: 200px;
+  text-decoration: none;
+  border: none;
+}
+.productlist{
+  color: black;
+  font-weight: bold;
+}
+.button{
+  color:green;
+  font-weight: bold;
+  margin-left: 20;
+  text-decoration: none;
+}
